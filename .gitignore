@@ -1,0 +1,12 @@
+﻿# Kisisel log ve rapor dosyalari
+logs/
+alerts/report.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
